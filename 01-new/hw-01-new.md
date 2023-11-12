@@ -42,10 +42,15 @@
 24. Нажмите на кнопку "Сохранить" в правом верхнем углу экрана
 25. Задайте имя дашборда, если появится окно ввода имени дашборда
 
+**Ответ:**
+
+![скрин для mm1](https://github.com/Sergeykanyugin/smon-homeworks/blob/main/01-new/img/mon1.jpg)
 
 ### Задание 2 
 
 С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.
 
+**Ответ:**
 
+![скрин для mm1](https://github.com/Sergeykanyugin/smon-homeworks/blob/main/01-new/img/mon2.jpg)
 
